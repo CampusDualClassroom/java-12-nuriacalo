@@ -87,7 +87,7 @@ public class Utils {
      * Method to get a text string from input data.
      * @return text string entered by the user.
      */
-    public static String string() {
+    public static String string(int wheelsAngle) {
         return Utils.string(null);
     }
 
